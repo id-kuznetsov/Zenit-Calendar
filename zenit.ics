@@ -23,6 +23,7 @@ DTSTAMP:20260708T000000Z
 SUMMARY:🏠Зенит - Црвена Звезда
 DESCRIPTION:Товарищеский матч
 LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
 END:VEVENT
 
 BEGIN:VEVENT
