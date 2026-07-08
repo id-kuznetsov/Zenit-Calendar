@@ -12,7 +12,7 @@ SUMMARY:🏠Зенит - Нефтчи (Фергана)
 DESCRIPTION:Товарищеский матч
 LOCATION:Газпром Арена, Санкт-Петербург
 GEO:59.9727;30.2219
-URL:https://maps.apple.com/?ll=59.9727,30.2219
+URL:https://yandex.ru/maps/?ll=30.2219,59.9727&z=16
 END:VEVENT
 
 BEGIN:VEVENT
@@ -24,6 +24,7 @@ SUMMARY:🏠Зенит - Црвена Звезда
 DESCRIPTION:Товарищеский матч
 LOCATION:Газпром Арена, Санкт-Петербург
 GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/?ll=30.2219,59.9727&z=16
 END:VEVENT
 
 BEGIN:VEVENT
@@ -70,6 +71,9 @@ DTSTART:20260804T160000
 DTEND:20260804T180000
 DTSTAMP:20260708T000000Z
 SUMMARY:🏆 Зенит — Балтика
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/?ll=30.2219,59.9727&z=16
 DESCRIPTION:Кубок России (ориентировочная дата)
 END:VEVENT
 
@@ -80,6 +84,9 @@ DTEND:20260809T190000
 DTSTAMP:20260708T000000Z
 SUMMARY:🏠 Зенит — Родина
 DESCRIPTION:3 тур Российской Премьер-Лиги
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/?ll=30.2219,59.9727&z=16
 END:VEVENT
 
 BEGIN:VEVENT
