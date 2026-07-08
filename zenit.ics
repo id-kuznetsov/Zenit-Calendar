@@ -39,6 +39,9 @@ DTSTAMP:20260708T000000Z
 SUMMARY:🏠Зенит - Динамо Махачкала
 DESCRIPTION:Товарищеский матч
 LOCATION:Смена, Санкт-Петербург
+URL:Смена
+Санкт-Петербург, Калининский район, муниципальный округ Гражданка
+https://yandex.ru/maps/org/smena/179889352559?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -52,7 +55,7 @@ SUMMARY:🏆 Зенит — Спартак
 DESCRIPTION:OLIMPBET Суперкубок России
 LOCATION:Стадион Нижний Новгород, Нижний Новгород
 GEO:56.3372;43.9630
-URL:https://yandex.ru/maps/?text=Стадион+Нижний+Новгород
+URL:https://yandex.ru/maps/org/sovkombank_arena/62660933612?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
