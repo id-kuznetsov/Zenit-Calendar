@@ -14,7 +14,7 @@ SUMMARY:🏠Зенит – Нефтчи (Фергана)
 DESCRIPTION:Товарищеский матч
 LOCATION:Газпром Арена, Санкт-Петербург
 GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/?ll=30.2219,59.9727&z=16
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -28,7 +28,7 @@ SUMMARY:🏠Зенит - Црвена Звезда
 DESCRIPTION:Товарищеский матч
 LOCATION:Газпром Арена, Санкт-Петербург
 GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/?ll=30.2219,59.9727&z=16
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -39,9 +39,7 @@ DTSTAMP:20260708T000000Z
 SUMMARY:🏠Зенит - Динамо Махачкала
 DESCRIPTION:Товарищеский матч
 LOCATION:Смена, Санкт-Петербург
-URL:Смена
-Санкт-Петербург, Калининский район, муниципальный округ Гражданка
-https://yandex.ru/maps/org/smena/179889352559?si=pxcj61f1uanugg10xa5eexxg8c
+URL:https://yandex.ru/maps/org/smena/179889352559?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -85,8 +83,7 @@ DTSTAMP:20260708T000000Z
 SUMMARY:🏆 Зенит — Балтика
 LOCATION:Газпром Арена, Санкт-Петербург
 GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/?ll=30.2219,59.9727&z=16
-DESCRIPTION:Кубок России (ориентировочная дата)
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -98,7 +95,7 @@ SUMMARY:🏠 Зенит — Родина
 DESCRIPTION:3 тур Российской Премьер-Лиги
 LOCATION:Газпром Арена, Санкт-Петербург
 GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/?ll=30.2219,59.9727&z=16
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -108,6 +105,9 @@ DTEND:20260816T163000
 DTSTAMP:20260708T000000Z
 SUMMARY:🏠 Зенит — Динамо
 DESCRIPTION:4 тур Российской Премьер-Лиги
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -144,6 +144,9 @@ DTEND:20260901T180000
 DTSTAMP:20260708T000000Z
 SUMMARY:🏆 Зенит — Динамо Махачкала
 DESCRIPTION:Кубок России (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -153,6 +156,9 @@ DTEND:20260905T183000
 DTSTAMP:20260708T000000Z
 SUMMARY:🏠 Зенит — ЦСКА
 DESCRIPTION:7 тур Российской Премьер-Лиги
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -162,6 +168,9 @@ DTEND:20260912T181500
 DTSTAMP:20260708T000000Z
 SUMMARY:🏠 Зенит — Локомотив
 DESCRIPTION:8 тур Российской Премьер-Лиги
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -198,6 +207,9 @@ DTEND:20261016T180000
 DTSTAMP:20260708T000000Z
 SUMMARY:🏠 Зенит — Ахмат
 DESCRIPTION:11 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -207,6 +219,9 @@ DTEND:20261023T180000
 DTSTAMP:20260708T000000Z
 SUMMARY:🏠 Зенит — Динамо Махачкала
 DESCRIPTION:12 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -234,6 +249,9 @@ DTEND:20261106T180000
 DTSTAMP:20260708T000000Z
 SUMMARY:🏠 Зенит — Ростов
 DESCRIPTION:14 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -252,6 +270,9 @@ DTEND:20261124T180000
 DTSTAMP:20260708T000000Z
 SUMMARY:🏆 Зенит — Крылья Советов
 DESCRIPTION:Кубок России (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
@@ -270,6 +291,9 @@ DTEND:20261204T180000
 DTSTAMP:20260708T000000Z
 SUMMARY:🏠 Зенит — Балтика
 DESCRIPTION:17 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 END:VEVENT
 
 BEGIN:VEVENT
