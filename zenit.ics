@@ -511,6 +511,9 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:🏠 Зенит — Факел
 DESCRIPTION:18 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: 🏠 Зенит — Факел
@@ -525,11 +528,14 @@ DTEND:20270305T180000
 DTSTAMP:20260708T000000Z
 SEQUENCE:1
 STATUS:TENTATIVE
-SUMMARY:✈️ Оренбург — Зенит
+SUMMARY:🏠 Зенит — Оренбург
 DESCRIPTION:19 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Оренбург — Зенит
+DESCRIPTION:Матч через 1 час: 🏠 Зенит — Оренбург
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
@@ -543,6 +549,8 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:✈️ Родина — Зенит
 DESCRIPTION:20 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:
+URL:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: ✈️ Родина — Зенит
@@ -559,6 +567,9 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:🏠 Зенит — Акрон
 DESCRIPTION:21 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: 🏠 Зенит — Акрон
@@ -575,6 +586,8 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:✈️ Ростов — Зенит
 DESCRIPTION:22 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:
+URL:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: ✈️ Ростов — Зенит
@@ -591,6 +604,8 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:✈️ Локомотив — Зенит
 DESCRIPTION:23 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:
+URL:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: ✈️ Локомотив — Зенит
@@ -607,6 +622,9 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:🏠 Зенит — Крылья Советов
 DESCRIPTION:24 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: 🏠 Зенит — Крылья Советов
@@ -623,6 +641,8 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:✈️ Ахмат — Зенит
 DESCRIPTION:25 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:
+URL:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: ✈️ Ахмат — Зенит
@@ -639,6 +659,9 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:🏠 Зенит — Краснодар
 DESCRIPTION:26 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: 🏠 Зенит — Краснодар
@@ -655,6 +678,8 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:✈️ Динамо Махачкала — Зенит
 DESCRIPTION:27 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:
+URL:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: ✈️ Динамо Махачкала — Зенит
@@ -671,6 +696,9 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:🏠 Зенит — Спартак
 DESCRIPTION:28 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: 🏠 Зенит — Спартак
@@ -687,6 +715,8 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:✈️ Динамо — Зенит
 DESCRIPTION:29 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:
+URL:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: ✈️ Динамо — Зенит
@@ -703,6 +733,9 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:🏠 Зенит — Рубин
 DESCRIPTION:30 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: 🏠 Зенит — Рубин
