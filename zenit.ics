@@ -96,6 +96,7 @@ STATUS:CONFIRMED
 SUMMARY:✈️ Акрон — Зенит
 DESCRIPTION:1 тур Российской Премьер-Лиги
 LOCATION:Солидарность Самара Арена, Самара
+URL:https://yandex.ru/maps/org/solidarnost_samara_arena/96839523723?si=pxcj61f1uanugg10xa5eexxg8c
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: ✈️ Акрон — Зенит
@@ -184,6 +185,8 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:🏆 Крылья Советов — Зенит
 DESCRIPTION:Кубок России (ориентировочная дата)
+LOCATION:Солидарность Самара Арена, Самара
+URL:https://yandex.ru/maps/org/solidarnost_samara_arena/96839523723?si=pxcj61f1uanugg10xa5eexxg8c
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: 🏆 Крылья Советов — Зенит
@@ -200,6 +203,8 @@ SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:✈️ Спартак — Зенит
 DESCRIPTION:5 тур Российской Премьер-Лиги
+LOCATION:
+URL:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: ✈️ Спартак — Зенит
@@ -216,6 +221,8 @@ SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:✈️ Факел — Зенит
 DESCRIPTION:6 тур Российской Премьер-Лиги
+LOCATION:
+URL:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: ✈️ Факел — Зенит
@@ -289,6 +296,8 @@ SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:✈️ Балтика — Зенит
 DESCRIPTION:9 тур Российской Премьер-Лиги
+LOCATION:
+URL:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: ✈️ Балтика — Зенит
@@ -305,6 +314,8 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:✈️ Краснодар — Зенит
 DESCRIPTION:10 тур Российской Премьер-Лиги (ориентировочная дата)
+LOCATION:
+URL:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: ✈️ Краснодар — Зенит
@@ -321,6 +332,8 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:🏆 Динамо Махачкала — Зенит
 DESCRIPTION:Кубок России (ориентировочная дата)
+LOCATION:
+URL:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: 🏆 Динамо Махачкала — Зенит
@@ -375,6 +388,8 @@ SEQUENCE:1
 STATUS:TENTATIVE
 SUMMARY:🏆 Балтика — Зенит
 DESCRIPTION:Кубок России (ориентировочная дата)
+LOCATION:
+URL:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Матч через 1 час: 🏆 Балтика — Зенит
