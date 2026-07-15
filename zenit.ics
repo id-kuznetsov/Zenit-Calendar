@@ -127,9 +127,10 @@ UID:zenit-cup-r1-2026
 DTSTART:20260805T204500
 DTEND:20260805T224500
 DTSTAMP:20260710T000000Z
-SEQUENCE:2
+SEQUENCE:3
 STATUS:CONFIRMED
 SUMMARY:🏆 Зенит — Балтика
+DESCRIPTION:Кубок России 1 тур
 LOCATION:Газпром Арена, Санкт-Петербург
 GEO:59.9727;30.2219
 URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
@@ -183,10 +184,10 @@ UID:zenit-cup-r2-2026
 DTSTART:20260819T161500
 DTEND:20260819T181500
 DTSTAMP:20260715T000000Z
-SEQUENCE:3
+SEQUENCE:4
 STATUS:CONFIRMED
 SUMMARY:🏆 Крылья Советов — Зенит
-DESCRIPTION:Кубок России (ориентировочная дата)
+DESCRIPTION:Кубок России 2 тур
 LOCATION:Солидарность Самара Арена, Самара
 URL:https://yandex.ru/maps/org/solidarnost_samara_arena/96839523723?si=pxcj61f1uanugg10xa5eexxg8c
 BEGIN:VALARM
@@ -237,10 +238,10 @@ UID:zenit-cup-r3-2026
 DTSTART:20260902T183000
 DTEND:20260902T203000
 DTSTAMP:20260715T000000Z
-SEQUENCE:2
+SEQUENCE:3
 STATUS:CONFIRMED
 SUMMARY:🏆 Зенит — Динамо Махачкала
-DESCRIPTION:Кубок России (ориентировочная дата)
+DESCRIPTION:Кубок России 3 тур
 LOCATION:Газпром Арена, Санкт-Петербург
 GEO:59.9727;30.2219
 URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
