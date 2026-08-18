@@ -1,772 +1,773 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Zenit Schedule 26-27//RU
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Календарь ФК "Зенит" 2026/27
-X-WR-TIMEZONE:Europe/Moscow
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-X-LIC-LOCATION:Europe/Moscow
-BEGIN:STANDARD
-DTSTART:19700101T000000
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0300
-TZNAME:MSK
-END:STANDARD
-END:VTIMEZONE
-
-BEGIN:VEVENT
-UID:zenit-friendly0807-2026
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:CONFIRMED
-DTSTART:20260708T190000
-DTEND:20260708T210000
-SUMMARY:🏠Зенит – Нефтчи (Фергана)
-DESCRIPTION:Товарищеский матч
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-friendly1207-2026
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:CONFIRMED
-DTSTART;TZID=Europe/Moscow:20260712T190000
-DTEND;TZID=Europe/Moscow:20260712T210000
-SUMMARY:🏠Зенит - Црвена Звезда
-DESCRIPTION:Товарищеский матч
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠Зенит - Црвена Звезда
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-friendly1307-2026
-DTSTART:20260713T170000
-DTEND:20260713T190000
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:🏠Зенит - Динамо Махачкала
-DESCRIPTION:Товарищеский матч
-LOCATION:Смена, Санкт-Петербург
-URL:https://yandex.ru/maps/org/smena/179889352559?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠Зенит - Динамо Махачкала
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-supercup-2026
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:CONFIRMED
-DTSTART:20260718T193000
-DTEND:20260718T213000
-SUMMARY:🏆 Зенит — Спартак
-DESCRIPTION:OLIMPBET Суперкубок России
-LOCATION:Стадион Нижний Новгород, Нижний Новгород
-GEO:56.3372;43.9630
-URL:https://yandex.ru/maps/org/sovkombank_arena/62660933612?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏆 Зенит — Спартак
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r1
-DTSTART:20260725T161500
-DTEND:20260725T181500
-DTSTAMP:20260710T000000Z
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:✈️ Акрон — Зенит
-DESCRIPTION:1 тур Российской Премьер-Лиги
-LOCATION:Солидарность Самара Арена, Самара
-URL:https://yandex.ru/maps/org/solidarnost_samara_arena/96839523723?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Акрон — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r2
-DTSTART:20260802T160000
-DTEND:20260802T180000
-DTSTAMP:20260710T000000Z
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:✈️ Оренбург — Зенит
-DESCRIPTION:2 тур Российской Премьер-Лиги
-LOCATION:Газовик, Оренбург
-URL:https://yandex.ru/maps/org/gazovik/22074466791?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Оренбург — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-cup-r1-2026
-DTSTART:20260805T204500
-DTEND:20260805T224500
-DTSTAMP:20260710T000000Z
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:🏆 Зенит — Балтика
-DESCRIPTION:Кубок России 1 тур
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏆 Зенит — Балтика
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r3
-DTSTART:20260809T170000
-DTEND:20260809T190000
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:🏠 Зенит — Родина
-DESCRIPTION:3 тур Российской Премьер-Лиги
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Родина
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r4
-DTSTART:20260816T143000
-DTEND:20260816T163000
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:🏠 Зенит — Динамо
-DESCRIPTION:4 тур Российской Премьер-Лиги
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Динамо
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-cup-r2-2026
-DTSTART:20260819T161500
-DTEND:20260819T181500
-DTSTAMP:20260715T000000Z
-SEQUENCE:4
-STATUS:CONFIRMED
-SUMMARY:🏆 Крылья Советов — Зенит
-DESCRIPTION:Кубок России 2 тур
-LOCATION:Солидарность Самара Арена, Самара
-URL:https://yandex.ru/maps/org/solidarnost_samara_arena/96839523723?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏆 Крылья Советов — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r5
-DTSTART:20260823T200000
-DTEND:20260823T220000
-DTSTAMP:20260710T000000Z
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:✈️ Спартак — Зенит
-DESCRIPTION:5 тур Российской Премьер-Лиги
-LOCATION:Лукойл Арена, Москва
-URL:https://yandex.ru/maps/org/lukoyl_arena/198163721180?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Спартак — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r6
-DTSTART:20260829T150000
-DTEND:20260829T170000
-DTSTAMP:20260710T000000Z
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:✈️ Факел — Зенит
-DESCRIPTION:6 тур Российской Премьер-Лиги
-LOCATION:Факел, Воронеж
-URL:https://yandex.ru/maps/org/fakel/159009764174?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Факел — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-cup-r3-2026
-DTSTART:20260902T183000
-DTEND:20260902T203000
-DTSTAMP:20260715T000000Z
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:🏆 Зенит — Динамо Махачкала
-DESCRIPTION:Кубок России 3 тур
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏆 Зенит — Динамо Махачкала
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r7
-DTSTART:20260905T163000
-DTEND:20260905T183000
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:🏠 Зенит — ЦСКА
-DESCRIPTION:7 тур Российской Премьер-Лиги
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — ЦСКА
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r8
-DTSTART:20260912T161500
-DTEND:20260912T181500
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:🏠 Зенит — Локомотив
-DESCRIPTION:8 тур Российской Премьер-Лиги
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Локомотив
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r9
-DTSTART:20260916T204500
-DTEND:20260916T224500
-DTSTAMP:20260710T000000Z
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:✈️ Балтика — Зенит
-DESCRIPTION:9 тур Российской Премьер-Лиги
-LOCATION:Ростех Арена, Калининград
-URL:https://yandex.ru/maps/org/rostekh_arena/192695348367?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Балтика — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-supersreies-shanghai-2026
-DTSTART;TZID=Europe/Moscow:20260927T150000
-DTEND;TZID=Europe/Moscow:20260927T170000
-DTSTAMP:20260716T000000Z
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:✈️ Шанхай Шеньхуа — Зенит
-DESCRIPTION:WINLINE Суперсерия
-LOCATION:Шанхай, Китай
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Шанхай Шеньхуа — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r10
-DTSTART;TZID=Europe/Moscow:20261010T193000
-DTEND;TZID=Europe/Moscow:20261010T213000
-DTSTAMP:20260818T000000Z
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:✈️ Краснодар — Зенит
-DESCRIPTION:10 тур Российской Премьер-Лиги
-LOCATION:Ozon Арена, Краснодар
-URL:https://yandex.ru/maps/org/ozon_arena/156443768638?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Краснодар — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-cup-r4-2026
-DTSTART;TZID=Europe/Moscow:20261014T183000
-DTEND;TZID=Europe/Moscow:20261014T203000
-DTSTAMP:20260818T000000Z
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:🏆 Динамо Махачкала — Зенит
-DESCRIPTION:Кубок России
-LOCATION:Анжи Арена, Каспийск
-URL:https://yandex.ru/maps/org/anzhi_arena/77584355201?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏆 Динамо Махачкала — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r11
-DTSTART;TZID=Europe/Moscow:20261018T140000
-DTEND;TZID=Europe/Moscow:20261018T160000
-DTSTAMP:20260818T000000Z
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:🏠 Зенит — Ахмат
-DESCRIPTION:11 тур Российской Премьер-Лиги\n\nНе сплю — канал о «Зените»: https://t.me/NoSleepZenit
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Ахмат
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r12
-DTSTART;TZID=Europe/Moscow:20261025T183000
-DTEND;TZID=Europe/Moscow:20261025T203000
-DTSTAMP:20260818T000000Z
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:🏠 Зенит — Динамо Махачкала
-DESCRIPTION:12 тур Российской Премьер-Лиги
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Динамо Махачкала
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-cup-r5-2026
-DTSTART;TZID=Europe/Moscow:20261029T214500
-DTEND;TZID=Europe/Moscow:20261029T234500
-DTSTAMP:20260818T000000Z
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:🏆 Балтика — Зенит
-DESCRIPTION:Кубок России
-LOCATION:Ростех Арена, Калининград
-URL:https://yandex.ru/maps/org/rostekh_arena/192695348367?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏆 Балтика — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r13
-DTSTART;TZID=Europe/Moscow:20261102T180000
-DTEND;TZID=Europe/Moscow:20261102T200000
-DTSTAMP:20260818T000000Z
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:✈️ Крылья Советов — Зенит
-DESCRIPTION:13 тур Российской Премьер-Лиги
-LOCATION:Солидарность Самара Арена, Самара
-URL:https://yandex.ru/maps/org/solidarnost_samara_arena/96839523723?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Крылья Советов — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r14
-DTSTART;TZID=Europe/Moscow:20261108T183000
-DTEND;TZID=Europe/Moscow:20261108T203000
-DTSTAMP:20260818T000000Z
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:🏠 Зенит — Ростов
-DESCRIPTION:14 тур Российской Премьер-Лиги
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Ростов
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r15
-DTSTART;TZID=Europe/Moscow:20261121T173000
-DTEND;TZID=Europe/Moscow:20261121T193000
-DTSTAMP:20260818T000000Z
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:✈️ Рубин — Зенит
-DESCRIPTION:15 тур Российской Премьер-Лиги
-LOCATION:Ак Барс Арена, Казань
-URL:https://yandex.ru/maps/org/ak_bars_arena/1216041023?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Рубин — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-cup-r6-2026
-DTSTART;TZID=Europe/Moscow:20261124T193000
-DTEND;TZID=Europe/Moscow:20261124T213000
-DTSTAMP:20260818T000000Z
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:🏆 Зенит — Крылья Советов
-DESCRIPTION:Кубок России
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏆 Зенит — Крылья Советов
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r16
-DTSTART;TZID=Europe/Moscow:20261128T163000
-DTEND;TZID=Europe/Moscow:20261128T183000
-DTSTAMP:20260818T000000Z
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:✈️ ЦСКА — Зенит
-DESCRIPTION:16 тур Российской Премьер-Лиги
-LOCATION:ВЭБ Арена, Москва
-URL:https://yandex.ru/maps/org/veb_arena/230075653314?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ ЦСКА — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r17
-DTSTART;TZID=Europe/Moscow:20261205T173000
-DTEND;TZID=Europe/Moscow:20261205T193000
-DTSTAMP:20260818T000000Z
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:🏠 Зенит — Балтика
-DESCRIPTION:17 тур Российской Премьер-Лиги
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Балтика
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r18
-DTSTART:20270226T160000
-DTEND:20270226T180000
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:TENTATIVE
-SUMMARY:🏠 Зенит — Факел
-DESCRIPTION:18 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Факел
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r19
-DTSTART:20270305T160000
-DTEND:20270305T180000
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:TENTATIVE
-SUMMARY:🏠 Зенит — Оренбург
-DESCRIPTION:19 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Оренбург
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r20
-DTSTART:20270312T160000
-DTEND:20270312T180000
-DTSTAMP:20260710T000000Z
-SEQUENCE:2
-STATUS:TENTATIVE
-SUMMARY:✈️ Родина — Зенит
-DESCRIPTION:20 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:Арена Химки, Химки
-URL:https://yandex.ru/maps/org/arena_khimki/1114780101?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Родина — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r21
-DTSTART:20270319T160000
-DTEND:20270319T180000
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:TENTATIVE
-SUMMARY:🏠 Зенит — Акрон
-DESCRIPTION:21 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Акрон
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r22
-DTSTART:20270402T160000
-DTEND:20270402T180000
-DTSTAMP:20260710T000000Z
-SEQUENCE:2
-STATUS:TENTATIVE
-SUMMARY:✈️ Ростов — Зенит
-DESCRIPTION:22 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:Ростов Арена, Ростов-на-Дону
-URL:https://yandex.ru/maps/org/rostov_arena/140043458368?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Ростов — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r23
-DTSTART:20270409T160000
-DTEND:20270409T180000
-DTSTAMP:20260710T000000Z
-SEQUENCE:2
-STATUS:TENTATIVE
-SUMMARY:✈️ Локомотив — Зенит
-DESCRIPTION:23 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:РЖД Арена, Москва
-URL:https://yandex.ru/maps/org/rzhd_arena/1013976871?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Локомотив — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r24
-DTSTART:20270416T160000
-DTEND:20270416T180000
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:TENTATIVE
-SUMMARY:🏠 Зенит — Крылья Советов
-DESCRIPTION:24 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Крылья Советов
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r25
-DTSTART:20270423T160000
-DTEND:20270423T180000
-DTSTAMP:20260710T000000Z
-SEQUENCE:2
-STATUS:TENTATIVE
-SUMMARY:✈️ Ахмат — Зенит
-DESCRIPTION:25 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:Ахмат Арена, Грозный
-URL:https://yandex.ru/maps/org/akhmat_arena/1240609274?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Ахмат — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r26
-DTSTART:20270430T160000
-DTEND:20270430T180000
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:TENTATIVE
-SUMMARY:🏠 Зенит — Краснодар
-DESCRIPTION:26 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Краснодар
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r27
-DTSTART:20270507T160000
-DTEND:20270507T180000
-DTSTAMP:20260710T000000Z
-SEQUENCE:2
-STATUS:TENTATIVE
-SUMMARY:✈️ Динамо Махачкала — Зенит
-DESCRIPTION:27 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:Анжи Арена, Каспийск
-URL:https://yandex.ru/maps/org/anzhi_arena/77584355201?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Динамо Махачкала — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r28
-DTSTART:20270514T160000
-DTEND:20270514T180000
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:TENTATIVE
-SUMMARY:🏠 Зенит — Спартак
-DESCRIPTION:28 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Спартак
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r29
-DTSTART:20270521T160000
-DTEND:20270521T180000
-DTSTAMP:20260710T000000Z
-SEQUENCE:2
-STATUS:TENTATIVE
-SUMMARY:✈️ Динамо — Зенит
-DESCRIPTION:29 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:ВТБ Арена, Москва
-URL:https://yandex.ru/maps/org/vtb_arena_tsentralny_stadion_dinamo_imeni_lva_yashina/1089774804?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: ✈️ Динамо — Зенит
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:zenit-rpl-r30
-DTSTART:20270529T160000
-DTEND:20270529T180000
-DTSTAMP:20260708T000000Z
-SEQUENCE:1
-STATUS:TENTATIVE
-SUMMARY:🏠 Зенит — Рубин
-DESCRIPTION:30 тур Российской Премьер-Лиги (ориентировочная дата)
-LOCATION:Газпром Арена, Санкт-Петербург
-GEO:59.9727;30.2219
-URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Матч через 1 час: 🏠 Зенит — Рубин
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-
-END:VCALENDAR
+	BEGIN:VCALENDAR
+	VERSION:2.0
+	PRODID:-//Zenit Schedule 26-27//RU
+	CALSCALE:GREGORIAN
+	METHOD:PUBLISH
+	X-WR-CALNAME:Календарь ФК "Зенит" 2026/27
+	X-WR-TIMEZONE:Europe/Moscow
+	BEGIN:VTIMEZONE
+	TZID:Europe/Moscow
+	X-LIC-LOCATION:Europe/Moscow
+	BEGIN:STANDARD
+	DTSTART:19700101T000000
+	TZOFFSETFROM:+0300
+	TZOFFSETTO:+0300
+	TZNAME:MSK
+	END:STANDARD
+	END:VTIMEZONE
+	
+	BEGIN:VEVENT
+	UID:zenit-friendly0807-2026
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:CONFIRMED
+	DTSTART:20260708T190000
+	DTEND:20260708T210000
+	SUMMARY:🏠Зенит – Нефтчи (Фергана)
+	DESCRIPTION:Товарищеский матч
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-friendly1207-2026
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:CONFIRMED
+	DTSTART;TZID=Europe/Moscow:20260712T190000
+	DTEND;TZID=Europe/Moscow:20260712T210000
+	SUMMARY:🏠Зенит - Црвена Звезда
+	DESCRIPTION:Товарищеский матч
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠Зенит - Црвена Звезда
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-friendly1307-2026
+	DTSTART:20260713T170000
+	DTEND:20260713T190000
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:CONFIRMED
+	SUMMARY:🏠Зенит - Динамо Махачкала
+	DESCRIPTION:Товарищеский матч
+	LOCATION:Смена, Санкт-Петербург
+	URL:https://yandex.ru/maps/org/smena/179889352559?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠Зенит - Динамо Махачкала
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-supercup-2026
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:CONFIRMED
+	DTSTART:20260718T193000
+	DTEND:20260718T213000
+	SUMMARY:🏆 Зенит — Спартак
+	DESCRIPTION:OLIMPBET Суперкубок России
+	LOCATION:Стадион Нижний Новгород, Нижний Новгород
+	GEO:56.3372;43.9630
+	URL:https://yandex.ru/maps/org/sovkombank_arena/62660933612?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏆 Зенит — Спартак
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r1
+	DTSTART:20260725T161500
+	DTEND:20260725T181500
+	DTSTAMP:20260710T000000Z
+	SEQUENCE:2
+	STATUS:CONFIRMED
+	SUMMARY:✈️ Акрон — Зенит
+	DESCRIPTION:1 тур Российской Премьер-Лиги
+	LOCATION:Солидарность Самара Арена, Самара
+	URL:https://yandex.ru/maps/org/solidarnost_samara_arena/96839523723?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Акрон — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r2
+	DTSTART:20260802T160000
+	DTEND:20260802T180000
+	DTSTAMP:20260710T000000Z
+	SEQUENCE:2
+	STATUS:CONFIRMED
+	SUMMARY:✈️ Оренбург — Зенит
+	DESCRIPTION:2 тур Российской Премьер-Лиги
+	LOCATION:Газовик, Оренбург
+	URL:https://yandex.ru/maps/org/gazovik/22074466791?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Оренбург — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-cup-r1-2026
+	DTSTART:20260805T204500
+	DTEND:20260805T224500
+	DTSTAMP:20260710T000000Z
+	SEQUENCE:3
+	STATUS:CONFIRMED
+	SUMMARY:🏆 Зенит — Балтика
+	DESCRIPTION:Кубок России 1 тур
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏆 Зенит — Балтика
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r3
+	DTSTART:20260809T170000
+	DTEND:20260809T190000
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:CONFIRMED
+	SUMMARY:🏠 Зенит — Родина
+	DESCRIPTION:3 тур Российской Премьер-Лиги
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Родина
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r4
+	DTSTART:20260816T143000
+	DTEND:20260816T163000
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:CONFIRMED
+	SUMMARY:🏠 Зенит — Динамо
+	DESCRIPTION:4 тур Российской Премьер-Лиги
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Динамо
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-cup-r2-2026
+	DTSTART:20260819T161500
+	DTEND:20260819T181500
+	DTSTAMP:20260715T000000Z
+	SEQUENCE:4
+	STATUS:CONFIRMED
+	SUMMARY:🏆 Крылья Советов — Зенит
+	DESCRIPTION:Кубок России 2 тур\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Солидарность Самара Арена, Самара
+	URL:https://yandex.ru/maps/org/solidarnost_samara_arena/96839523723?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏆 Крылья Советов — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r5
+	DTSTART:20260823T200000
+	DTEND:20260823T220000
+	DTSTAMP:20260710T000000Z
+	SEQUENCE:2
+	STATUS:CONFIRMED
+	SUMMARY:✈️ Спартак — Зенит
+	DESCRIPTION:5 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Лукойл Арена, Москва
+	URL:https://yandex.ru/maps/org/lukoyl_arena/198163721180?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Спартак — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r6
+	DTSTART:20260829T150000
+	DTEND:20260829T170000
+	DTSTAMP:20260710T000000Z
+	SEQUENCE:2
+	STATUS:CONFIRMED
+	SUMMARY:✈️ Факел — Зенит
+	DESCRIPTION:6 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Факел, Воронеж
+	URL:https://yandex.ru/maps/org/fakel/159009764174?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Факел — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-cup-r3-2026
+	DTSTART:20260902T183000
+	DTEND:20260902T203000
+	DTSTAMP:20260715T000000Z
+	SEQUENCE:3
+	STATUS:CONFIRMED
+	SUMMARY:🏆 Зенит — Динамо Махачкала
+	DESCRIPTION:Кубок России 3 тур\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏆 Зенит — Динамо Махачкала
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r7
+	DTSTART:20260905T163000
+	DTEND:20260905T183000
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:CONFIRMED
+	SUMMARY:🏠 Зенит — ЦСКА
+	DESCRIPTION:7 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — ЦСКА
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r8
+	DTSTART:20260912T161500
+	DTEND:20260912T181500
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:CONFIRMED
+	SUMMARY:🏠 Зенит — Локомотив
+	DESCRIPTION:8 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Локомотив
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r9
+	DTSTART:20260916T204500
+	DTEND:20260916T224500
+	DTSTAMP:20260710T000000Z
+	SEQUENCE:2
+	STATUS:CONFIRMED
+	SUMMARY:✈️ Балтика — Зенит
+	DESCRIPTION:9 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Ростех Арена, Калининград
+	URL:https://yandex.ru/maps/org/rostekh_arena/192695348367?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Балтика — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-supersreies-shanghai-2026
+	DTSTART;TZID=Europe/Moscow:20260927T150000
+	DTEND;TZID=Europe/Moscow:20260927T170000
+	DTSTAMP:20260716T000000Z
+	SEQUENCE:1
+	STATUS:CONFIRMED
+	SUMMARY:✈️ Шанхай Шеньхуа — Зенит
+	DESCRIPTION:WINLINE Суперсерия\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Шанхай, Китай
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Шанхай Шеньхуа — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r10
+	DTSTART;TZID=Europe/Moscow:20261010T193000
+	DTEND;TZID=Europe/Moscow:20261010T213000
+	DTSTAMP:20260818T000000Z
+	SEQUENCE:3
+	STATUS:CONFIRMED
+	SUMMARY:✈️ Краснодар — Зенит
+	DESCRIPTION:10 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Ozon Арена, Краснодар
+	URL:https://yandex.ru/maps/org/ozon_arena/156443768638?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Краснодар — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-cup-r4-2026
+	DTSTART;TZID=Europe/Moscow:20261014T183000
+	DTEND;TZID=Europe/Moscow:20261014T203000
+	DTSTAMP:20260818T000000Z
+	SEQUENCE:3
+	STATUS:CONFIRMED
+	SUMMARY:🏆 Динамо Махачкала — Зенит
+	DESCRIPTION:Кубок России 4 тур\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Анжи Арена, Каспийск
+	URL:https://yandex.ru/maps/org/anzhi_arena/77584355201?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏆 Динамо Махачкала — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r11
+	DTSTART;TZID=Europe/Moscow:20261018T140000
+	DTEND;TZID=Europe/Moscow:20261018T160000
+	DTSTAMP:20260818T000000Z
+	SEQUENCE:3
+	STATUS:CONFIRMED
+	SUMMARY:🏠 Зенит — Ахмат
+	DESCRIPTION:11 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Ахмат
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r12
+	DTSTART;TZID=Europe/Moscow:20261025T183000
+	DTEND;TZID=Europe/Moscow:20261025T203000
+	DTSTAMP:20260818T000000Z
+	SEQUENCE:3
+	STATUS:CONFIRMED
+	SUMMARY:🏠 Зенит — Динамо Махачкала
+	DESCRIPTION:12 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Динамо Махачкала
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-cup-r5-2026
+	DTSTART;TZID=Europe/Moscow:20261029T214500
+	DTEND;TZID=Europe/Moscow:20261029T234500
+	DTSTAMP:20260818T000000Z
+	SEQUENCE:3
+	STATUS:CONFIRMED
+	SUMMARY:🏆 Балтика — Зенит
+	DESCRIPTION:Кубок России 5 тур\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Ростех Арена, Калининград
+	URL:https://yandex.ru/maps/org/rostekh_arena/192695348367?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏆 Балтика — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r13
+	DTSTART;TZID=Europe/Moscow:20261102T180000
+	DTEND;TZID=Europe/Moscow:20261102T200000
+	DTSTAMP:20260818T000000Z
+	SEQUENCE:3
+	STATUS:CONFIRMED
+	SUMMARY:✈️ Крылья Советов — Зенит
+	DESCRIPTION:13 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Солидарность Самара Арена, Самара
+	URL:https://yandex.ru/maps/org/solidarnost_samara_arena/96839523723?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Крылья Советов — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r14
+	DTSTART;TZID=Europe/Moscow:20261108T183000
+	DTEND;TZID=Europe/Moscow:20261108T203000
+	DTSTAMP:20260818T000000Z
+	SEQUENCE:3
+	STATUS:CONFIRMED
+	SUMMARY:🏠 Зенит — Ростов
+	DESCRIPTION:14 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Ростов
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r15
+	DTSTART;TZID=Europe/Moscow:20261121T173000
+	DTEND;TZID=Europe/Moscow:20261121T193000
+	DTSTAMP:20260818T000000Z
+	SEQUENCE:3
+	STATUS:CONFIRMED
+	SUMMARY:✈️ Рубин — Зенит
+	DESCRIPTION:15 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Ак Барс Арена, Казань
+	URL:https://yandex.ru/maps/org/ak_bars_arena/1216041023?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Рубин — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-cup-r6-2026
+	DTSTART;TZID=Europe/Moscow:20261124T193000
+	DTEND;TZID=Europe/Moscow:20261124T213000
+	DTSTAMP:20260818T000000Z
+	SEQUENCE:2
+	STATUS:CONFIRMED
+	SUMMARY:🏆 Зенит — Крылья Советов
+	DESCRIPTION:Кубок России 6 тур\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏆 Зенит — Крылья Советов
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r16
+	DTSTART;TZID=Europe/Moscow:20261128T163000
+	DTEND;TZID=Europe/Moscow:20261128T183000
+	DTSTAMP:20260818T000000Z
+	SEQUENCE:3
+	STATUS:CONFIRMED
+	SUMMARY:✈️ ЦСКА — Зенит
+	DESCRIPTION:16 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:ВЭБ Арена, Москва
+	URL:https://yandex.ru/maps/org/veb_arena/230075653314?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ ЦСКА — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r17
+	DTSTART;TZID=Europe/Moscow:20261205T173000
+	DTEND;TZID=Europe/Moscow:20261205T193000
+	DTSTAMP:20260818T000000Z
+	SEQUENCE:3
+	STATUS:CONFIRMED
+	SUMMARY:🏠 Зенит — Балтика
+	DESCRIPTION:17 тур Российской Премьер-Лиги\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Балтика
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r18
+	DTSTART:20270226T160000
+	DTEND:20270226T180000
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:TENTATIVE
+	SUMMARY:🏠 Зенит — Факел
+	DESCRIPTION:18 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Факел
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r19
+	DTSTART:20270305T160000
+	DTEND:20270305T180000
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:TENTATIVE
+	SUMMARY:🏠 Зенит — Оренбург
+	DESCRIPTION:19 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Оренбург
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r20
+	DTSTART:20270312T160000
+	DTEND:20270312T180000
+	DTSTAMP:20260710T000000Z
+	SEQUENCE:2
+	STATUS:TENTATIVE
+	SUMMARY:✈️ Родина — Зенит
+	DESCRIPTION:20 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Арена Химки, Химки
+	URL:https://yandex.ru/maps/org/arena_khimki/1114780101?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Родина — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r21
+	DTSTART:20270319T160000
+	DTEND:20270319T180000
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:TENTATIVE
+	SUMMARY:🏠 Зенит — Акрон
+	DESCRIPTION:21 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Акрон
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r22
+	DTSTART:20270402T160000
+	DTEND:20270402T180000
+	DTSTAMP:20260710T000000Z
+	SEQUENCE:2
+	STATUS:TENTATIVE
+	SUMMARY:✈️ Ростов — Зенит
+	DESCRIPTION:22 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Ростов Арена, Ростов-на-Дону
+	URL:https://yandex.ru/maps/org/rostov_arena/140043458368?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Ростов — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r23
+	DTSTART:20270409T160000
+	DTEND:20270409T180000
+	DTSTAMP:20260710T000000Z
+	SEQUENCE:2
+	STATUS:TENTATIVE
+	SUMMARY:✈️ Локомотив — Зенит
+	DESCRIPTION:23 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:РЖД Арена, Москва
+	URL:https://yandex.ru/maps/org/rzhd_arena/1013976871?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Локомотив — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r24
+	DTSTART:20270416T160000
+	DTEND:20270416T180000
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:TENTATIVE
+	SUMMARY:🏠 Зенит — Крылья Советов
+	DESCRIPTION:24 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Крылья Советов
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r25
+	DTSTART:20270423T160000
+	DTEND:20270423T180000
+	DTSTAMP:20260710T000000Z
+	SEQUENCE:2
+	STATUS:TENTATIVE
+	SUMMARY:✈️ Ахмат — Зенит
+	DESCRIPTION:25 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Ахмат Арена, Грозный
+	URL:https://yandex.ru/maps/org/akhmat_arena/1240609274?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Ахмат — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r26
+	DTSTART:20270430T160000
+	DTEND:20270430T180000
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:TENTATIVE
+	SUMMARY:🏠 Зенит — Краснодар
+	DESCRIPTION:26 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Краснодар
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r27
+	DTSTART:20270507T160000
+	DTEND:20270507T180000
+	DTSTAMP:20260710T000000Z
+	SEQUENCE:2
+	STATUS:TENTATIVE
+	SUMMARY:✈️ Динамо Махачкала — Зенит
+	DESCRIPTION:27 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Анжи Арена, Каспийск
+	URL:https://yandex.ru/maps/org/anzhi_arena/77584355201?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Динамо Махачкала — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r28
+	DTSTART:20270514T160000
+	DTEND:20270514T180000
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:TENTATIVE
+	SUMMARY:🏠 Зенит — Спартак
+	DESCRIPTION:28 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Спартак
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r29
+	DTSTART:20270521T160000
+	DTEND:20270521T180000
+	DTSTAMP:20260710T000000Z
+	SEQUENCE:2
+	STATUS:TENTATIVE
+	SUMMARY:✈️ Динамо — Зенит
+	DESCRIPTION:29 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:ВТБ Арена, Москва
+	URL:https://yandex.ru/maps/org/vtb_arena_tsentralny_stadion_dinamo_imeni_lva_yashina/1089774804?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: ✈️ Динамо — Зенит
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	BEGIN:VEVENT
+	UID:zenit-rpl-r30
+	DTSTART:20270529T160000
+	DTEND:20270529T180000
+	DTSTAMP:20260708T000000Z
+	SEQUENCE:1
+	STATUS:TENTATIVE
+	SUMMARY:🏠 Зенит — Рубин
+	DESCRIPTION:30 тур Российской Премьер-Лиги (ориентировочная дата)\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+	LOCATION:Газпром Арена, Санкт-Петербург
+	GEO:59.9727;30.2219
+	URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+	BEGIN:VALARM
+	ACTION:DISPLAY
+	DESCRIPTION:Матч через 1 час: 🏠 Зенит — Рубин
+	TRIGGER:-PT1H
+	END:VALARM
+	END:VEVENT
+	
+	END:VCALENDAR
+	
