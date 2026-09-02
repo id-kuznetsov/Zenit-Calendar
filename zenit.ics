@@ -455,6 +455,25 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:zenit-trabzonspor-friendly-2026
+DTSTART;TZID=Europe/Moscow:20261115T170000
+DTEND;TZID=Europe/Moscow:20261115T190000
+DTSTAMP:20260902T000000Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:🏠 Зенит — Трабзонспор
+DESCRIPTION:Товарищеский матч\n\nПодписывайся на «Не сплю» — авторский канал о «Зените»: https://t.me/NoSleepZenit
+LOCATION:Газпром Арена, Санкт-Петербург
+GEO:59.9727;30.2219
+URL:https://yandex.ru/maps/org/gazprom_arena/131568837112?si=pxcj61f1uanugg10xa5eexxg8c
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Матч через 1 час: 🏠 Зенит — Трабзонспор
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:zenit-rpl-r15
 DTSTART;TZID=Europe/Moscow:20261121T173000
 DTEND;TZID=Europe/Moscow:20261121T193000
